@@ -1,0 +1,14 @@
+//THIS FILE IS AUTO-GENERATED USING cx-scss-manifest-webpack-plugin
+
+$cx-include-all: false;
+
+@include cx-widgets(
+	"cx/data/Store",
+	"cx/ui/History",
+	"cx/ui/Widget",
+	"cx/ui/enableCultureSensitiveFormatting",
+	"cx/ui/startHotAppLoop",
+	"cx/util/Debug",
+	"cx/util/Timing",
+	"cx/widgets/HtmlElement"
+);
